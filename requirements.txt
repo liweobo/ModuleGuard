@@ -8,3 +8,4 @@ astunparse==1.6.3
 peewee
 psycopg2-binary
 pkginfo
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
